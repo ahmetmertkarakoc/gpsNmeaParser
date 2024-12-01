@@ -19,7 +19,7 @@
 1. TivaWare kurulumunu yapın.
 2. Bu projeyi klonlayın:
    ```bash
-   git clone <proje-linki>
+   git clone <https://github.com/ahmetmertkarakoc/gpsNmeaParser/tree/main>
 
 ## Açıklama
 
